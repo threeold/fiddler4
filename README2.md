@@ -9,6 +9,7 @@ urlreplace  www.baidu.com  www.sina.com
 AutoResponder 拦截重定向  add rule
 
 regex:http://www.baidu.com/(.*)
+
 http://www.sina.com/$1
 
 
