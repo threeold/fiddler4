@@ -12,6 +12,6 @@ regex:http://www.baidu.com/(.*)
 
 http://www.sina.com/$1
 
-<img src="/threeold/fiddler4/blob/master/QQ%E5%9B%BE%E7%89%8720190716104620.png?raw=true" alt="QQ图片20190716104620.png">
+![image](https://github.com/threeold/fiddler4/blob/master/QQ%E5%9B%BE%E7%89%8720190716104620.png)
 
 
